@@ -1,0 +1,161 @@
+.container {
+    position: relative;
+    left: 30%;
+    height: 20px;
+}
+.divTit {
+    margin-left: 20px;
+    border:2px solid #198754;
+    border-radius: 33px;
+    width: 60px;
+    height: 60px;
+    background-color: #198754;
+}
+.ret-main {
+    color: white;
+    position: relative;
+    top:15px;
+    left: 5px;
+    font-size: 15px;
+
+}
+.titreSkills {
+    color: black;
+    position: relative;
+}
+.mainTableau {
+    position:absolute;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 100px;
+}
+.title {
+    margin: 10px;
+}
+h4 {
+    color: #198754;
+    margin: 10px;
+    width: 200px;
+}
+.conteneur {
+    border: 3px solid black;
+    margin: 10px;
+    height: fit-content;
+}
+.barre1 {
+    width: 80%;
+    background-color: grey;
+    border-radius: 20px;
+    margin: 10px;
+}
+    /*My barre*/ 
+.mybarre11 {
+    width: 80%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre12 {
+    width: 60%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre13 {
+    width: 70%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre14 {
+    width: 65%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre15 {
+    width: 70%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+/*My barre*/ 
+.mybarre21 {
+    width: 80%;
+    height: 10px;
+    border-radius: 20px;
+    background-color:#198754;
+}
+.mybarre22 {
+    width: 70%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre23 {
+    width: 45%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre24 {
+    width: 65%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+/*My barre*/ 
+.mybarre31 {
+    width: 100%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre32 {
+    width: 100%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre33 {
+    width: 80%;
+    height: 10px;
+    border-radius: 20px;
+    background-color:#198754;
+}
+.mybarre34 {
+    width: 60%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+/*My barre*/
+.mybarre41 {
+    width: 80%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #198754;
+}
+.mybarre42 {
+    width: 30%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: green;
+}
+.mybarre43 {
+    width: 30%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: green;
+}
+.mybarre44 {
+    width: 60%;
+    height: 10px;
+    border-radius: 20px;
+    background-color: green;
+}

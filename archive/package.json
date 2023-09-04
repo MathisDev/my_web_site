@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express-mailer": "^0.3.1",
+    "nodemailer": "^6.7.2"
+  }
+}

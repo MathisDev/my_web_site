@@ -1,0 +1,77 @@
+@media (max-width: 1350px){
+    .case1 {
+        left: 20%;       
+    }
+}
+@media (max-width: 1150px){
+    .titre1 {
+        left: 34%;
+        width: 400px;
+    }
+    .titre2 {
+        left: 33%;
+        width: 400px;
+    }
+    .caseLogoGit {
+        left: 33%;
+    }
+    .line {
+        left: 31%;
+        
+    }
+    .case1 {
+        left: 15%;       
+    }
+}
+@media (max-width: 1080px){
+    .titre1 {
+        left: 30%;
+        width: 400px;
+    }
+    .titre2 {
+        left: 28%;
+        width: 400px;
+    }
+    .caseLogoGit {
+        left: 28%;
+    }
+    .line {
+        left: 25%;
+        
+    }
+    .case1 {
+        left: 5%;       
+    }
+}
+@media (max-width: 250px){
+    .case1 {
+        left: 5%;
+    }
+
+    .titre11 {
+        font-size: 26px;
+    }
+    .titre12 {
+        font-size: 12px; 
+        width: 200px;
+    }
+
+
+    .titre1 {
+        left: 40%;
+        width: 400px;
+    }
+    .titre2 {
+        left: 39%;
+        width: 400px;
+    }
+    .caseLogoGit {
+        left: 39%;
+    }
+    .line {
+        left: 37%;
+        
+    }
+}
+
+ 
